@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\kuaforf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|c:\\users\\asus\\desktop\\kuaforf\\kuaforf\\randevualform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\randevualform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\kayitolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\kayitolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\randevularimform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\randevularimform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\randevualform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\randevualform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\kayitolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\kayitolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\randevularimform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\randevularimform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\randevualform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\randevualform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32BBAE2-ABBD-4DE8-B2CE-33EA8838B227}|kuaforf\\kuaforf.csproj|solutionrelative:kuaforf\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\MainForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:07:32.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplashForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\SplashForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\SplashForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\SplashForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:37:16.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanelForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\AdminPanelForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\AdminPanelForm.cs",
+              "RelativeToolTip": "kuaforf\\AdminPanelForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:55:57.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KayitOlForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\KayitOlForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\KayitOlForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\KayitOlForm.cs",
+              "RelativeToolTip": "kuaforf\\KayitOlForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:32:58.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\LoginForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\LoginForm.cs",
+              "RelativeToolTip": "kuaforf\\LoginForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:05:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\MainForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\MainForm.cs",
+              "RelativeToolTip": "kuaforf\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:43:51.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandevuAlForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevuAlForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\RandevuAlForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevuAlForm.cs",
+              "RelativeToolTip": "kuaforf\\RandevuAlForm.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:02:16.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\LoginForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:02:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandevularimForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevularimForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\RandevularimForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevularimForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\RandevularimForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:13:08.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RandevuAlForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevuAlForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\RandevuAlForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevuAlForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\RandevuAlForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:58:19.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KayitOlForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\KayitOlForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\KayitOlForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\KayitOlForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\KayitOlForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:31:46.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminPanelForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\AdminPanelForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\AdminPanelForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kuaforf\\AdminPanelForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:45:07.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RandevularimForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevularimForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\RandevularimForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevularimForm.cs",
+              "RelativeToolTip": "kuaforf\\RandevularimForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:26:31.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\Program.cs",
+              "RelativeDocumentMoniker": "kuaforf\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\Program.cs",
+              "RelativeToolTip": "kuaforf\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:22:35.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RandevuAlForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevuAlForm.Designer.cs",
+              "RelativeDocumentMoniker": "kuaforf\\RandevuAlForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\RandevuAlForm.Designer.cs",
+              "RelativeToolTip": "kuaforf\\RandevuAlForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:56:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SplashForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\SplashForm.cs",
+              "RelativeDocumentMoniker": "kuaforf\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\SplashForm.cs",
+              "RelativeToolTip": "kuaforf\\SplashForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:39:53.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "kuaforf\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\kuaforf\\kuaforf\\MainForm.Designer.cs",
+              "RelativeToolTip": "kuaforf\\MainForm.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAywFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:56:15.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
