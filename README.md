@@ -1,0 +1,3 @@
+C# Form ile basit bir kuaför randevu sistemi tasarladım. Bu projenin veri giriş çıkışları için SQL ile bir veri tabanı oluşturdum. 
+Kullanıcılar sisteme kaydolur, giriş yapar, istediği tarih ve saatte istediği hizmeti ve istediği personeli seçer; o gün o saat dolu ise sistem kabul etmez. Boş ise randevu alınır ve randevularım ekranından da alınan randevu iptal edilebilir. Aynı zamanda yönetici paneli ile sisteme kayıtlı olan kullanıcılar ve personeller sistemden silinebilir, yeni personel kaydı yapılabilir.
+Proje kapatıldığında veriler veri tabanına kaydedilmiş olur. Veriler sadece yönetici panelinden veya direkt SQL üzerinden silinip değiştirilebilir. projenin veya makinenin kapatılması verilere zarar vermez.
